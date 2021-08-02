@@ -1,4 +1,4 @@
-const btn1 = document.getElementById("email")
+const btn1 = document.getElementById("btn")
 
 const showEmail = ()=> alert("mr.ylraihan@gmail.com");
 
