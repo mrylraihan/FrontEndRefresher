@@ -1,0 +1,24 @@
+body {
+	background-color: #316b83;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1em;
+	color: #d5bfbf;
+	align-items: center;
+	text-align: center;
+}
+hr {
+	border-color: #8ca1a5;
+	border-width: 5px;
+	border-style: dotted none none none;
+	height: 0px;
+	width: 5%;
+}
+ul {
+	list-style-type: none;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
